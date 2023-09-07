@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Favour Food</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="State">
+        <item>Haryana</item>
+        <item>Maharashtra</item>
+        <item>Gujarat</item>
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Dal Rice</item>
+        <item>Sabji Roti</item>
+        <item>Kadhi</item>
+        <item>Puri bhaji</item>
+        <item>Dal Tardka</item>
+        <item>Aloo Paratha</item>
+        <item>Patra</item>
+        <item>Gulab Jamun</item>
+        <item>Palak Paneer</item>
+        <item>Khulcha</item>
+        <item>Makki di roti</item>
+        <item>Gobi Partha</item>
+        <item>Biryani</item>
+        <item>Rajma</item>
+        <item>Bhindi Fry</item>
+        <item>Dum Biryani</item>
+        <item>Rumali roti</item>
+        <item>Dal Makhni</item>
+        <item>Samosa</item>
+        <item>Kachori</item>
+        <item>Pav Bhaji</item>
+        <item>Misal Pav</item>
+        <item>Mix Vegetable</item>
+        <item>Muffins</item>
+        <item>DalFry JerraRice</item>
+    </string-array>
+</resources>

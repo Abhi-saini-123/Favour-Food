@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "712867152075",
+    "firebase_url": "https://favour-food-default-rtdb.firebaseio.com",
+    "project_id": "favour-food",
+    "storage_bucket": "favour-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712867152075:android:83a51d730d02aab5d45b4e",
+        "android_client_info": {
+          "package_name": "com.favour_food.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712867152075-fapmohkec2j4r9nlgn9lt0fmepai8d2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7rEXkjOUenNrxPSV45gWDjGoUbKQrFmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712867152075-fapmohkec2j4r9nlgn9lt0fmepai8d2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
